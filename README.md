@@ -1,3 +1,10 @@
-# belly-button-challenge
+<!DOCTYPE html>
+<html>
+<head>
+  <title>#belly-button-challenge</title>
+</head>
+<body>
+  <img src="https://github.com/dafreibe74/belly-button-challenge/blob/main/Images/Dash%20image.png?raw=true" alt="Belly Button Dash">
+</body>
+</html>
 
-<img src="[image.jpg](https://github.com/dafreibe74/belly-button-challenge/blob/main/Images/Dash%20image.png?raw=true)" alt="Image description" width="300" height="200" style="border: 1px solid black;">
