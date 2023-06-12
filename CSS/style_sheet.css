@@ -1,0 +1,22 @@
+#custom-bg {
+    background-image: url('https://img.freepik.com/free-vector/gradient-abstract-wireframe-background_23-2149020364.jpg');
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#text {
+    font-weight: bold;
+    font-size: large;
+}
+
+.col-md-12.jumbotron.text-center {
+    background-image: url('https://img.freepik.com/free-vector/technology-background_23-2148119855.jpg?w=1060&t=st=1686578623~exp=1686579223~hmac=4a2375eecb2f1566098036193f5cd6e9f83dfb0ad4cb0c4eedcb63e4c6e09334');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:white;
+}   
